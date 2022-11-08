@@ -1,2 +1,5 @@
 venv*
 job.txt
+.DS_Store
+python
+requests.zip
